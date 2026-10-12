@@ -41,7 +41,9 @@ Postgres, shadcn/ui, investigation dashboard, real agents.
 - Frontend: project connection, investigation creation, live investigation
   view over SSE, agent activity visualization, evidence explorer
 
-## Phase 05 — Correlation & Critic Loop
+## intermidiate phase: investigation loop (error ko monitor aur error kiss type ki problem generate kar raha hai before and after, warning kaha se aa rahi hai)
+
+## Phase 05 — Correlation & Critic Loop (investigation loop ki research + codebase read and code merge monitor karne ke baad assumed problematic things)
 
 - Correlation Agent
 - Critic Agent with falsification loop (`hypothesis.created` /
